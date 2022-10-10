@@ -1,24 +1,12 @@
-# README
+# TURBO RAILS TUTORIAL
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* `bundle install`
+* `rails db:create`
+* `rails db:migrate`
+* `./bin/dev`
 
-Things you may want to cover:
+[Tutorial](https://www.hotrails.dev/turbo-rails)
 
-* Ruby version
+https://user-images.githubusercontent.com/109083879/194960129-0e4188b3-a661-4e4a-a5a3-10d56d9c970e.mov
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
